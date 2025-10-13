@@ -1,12 +1,12 @@
 ## Hi there 👋
 
-I’m **Antonio Mišić**, a **Junior Technical Consultant** at **Nephos**, exploring **AI** and **Azure Cloud**.
+I’m **Antonio Mišić**, a **Junior Technical Consultant** at **Nephos**
 
-🚀 **Currently:**  
-Running workshops and talks on **AI**, **Azure**, and **Development**.
+🚀 **What I'm working on:**  
+Educating people through hacks, workshops, and talks on topics related to AI, Web Development, and Cloud Technologies.
 
-🧠 **Learning:**  
-**Agentic AI** systems that can think and act autonomously.
+🧠 **What I'm exploring:**  
+Building Agentic AI systems that can think, reason, and act on theri own,
 
 📫 **Contact:**  
 [LinkedIn](https://www.linkedin.com/in/antonio-misic77/) • [Email](mailto:antonio.misic77@outlook.com)
