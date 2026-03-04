@@ -4,7 +4,7 @@ I’m **Antonio Mišić**, a **Junior Technical Consultant** at **Nephos**
 
 🚀 **What I'm working on:**  
 
-Educating people through hacks and workshops on AI, and Cloud Technologies.
+Educating people through hacks and workshops on AI, Software Development and Cloud Technologies.
 
 🧠 **What I'm exploring:**  
 
