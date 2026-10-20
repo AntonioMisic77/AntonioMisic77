@@ -1,14 +1,12 @@
 ## Hi there 👋
 
-I’m **Antonio Mišić**, a **Junior Technical Consultant** at **Nephos**
+Popis stvari koje su gej:
 
-🚀 **What I'm working on:**  
+1. Shuffle Board sto igraju u Danskoj
+2. Catan u bilo kojem obliku
 
-Educating people through hacks and workshops on AI, Software Development and Cloud Technologies.
-
-🧠 **What I'm exploring:**  
-
-Building Agentic AI systems that can think, reason, and act on their own.
+   
+Ako zelite nesto dodati na listu javite se ovdje:
 
 📫 **Contact:**  
 
